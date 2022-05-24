@@ -1,6 +1,6 @@
 # CustomLuaSyntax
-Make Syntax that looks like keywords in lua
-\nDoes not support variadic arguments
+Make Syntax that looks like keywords in lua <br>
+Does not support variadic arguments
 
 > loadstring:
 

@@ -9,7 +9,7 @@ local Class = Syntax(function(Name, Data)
     print(Name, Data[1])
 
     return Name, Data[1]
-end, 2)
+end)
 
 Class "Balls" {
   "Test"

@@ -1,5 +1,5 @@
 local function Syntax(Handler)
-  ArgAmount = debug.info(Handler, "a")
+  local ArgAmount = debug.info(Handler, "a")
 
   local Functions = {};
   local Arguments = {}
